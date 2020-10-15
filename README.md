@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 </div>
 
-![Benny Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhwanggggg&count_private=true&theme=dark)
+![Benny Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhwanggggg&count_private=true&theme=dark&show_icons=true)
 
-![Benny's github stats](https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&count_private=true&theme=dark)
+![Benny's github stats](https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&count_private=true&theme=dark&show_icons=true)
