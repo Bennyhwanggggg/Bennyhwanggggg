@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 <img src="https://ghchart.rshah.org/Bennyhwanggggg" alt="BennyHwanggggg's Github chart" />
 
 </div>
+
+![Benny Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhwanggggg&theme=dark)
+
+![Benny's github stats](https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&theme=dark)
