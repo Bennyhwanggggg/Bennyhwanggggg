@@ -72,9 +72,9 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png"/></code>
 
 
-### Visitor Stats
+## Visitor Stats
 <div align="right">
   
-[![HitCount](http://hits.dwyl.com/bennyhwangggg/bennyhwangggg.svg)](http://hits.dwyl.com/bennyhwangggg/bennyhwangggg) ![ViewCount](https://views.whatilearened.today/views/github/bennyhwangggg/bennyhwangggg.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://bennyhwangggg.io/portfolio/)
+<img src="http://hits.dwyl.com/bennyhwangggg/bennyhwangggg.svg" /> <img src="https://views.whatilearened.today/views/github/bennyhwangggg/bennyhwangggg.svg"/> <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg"/>
 
 </div>
