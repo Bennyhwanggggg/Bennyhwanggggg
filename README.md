@@ -4,12 +4,12 @@
 **Github Stats:**
 <div align = "center">
 
-<img src="https://ghchart.rshah.org/Bennyhwanggggg" alt="BennyHwanggggg's Github chart" />
+  <img height="130" src="https://ghchart.rshah.org/Bennyhwanggggg" alt="BennyHwanggggg's Github chart" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhwanggggg&count_private=true&theme=dark&show_icons=true"/> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&count_private=true&theme=dark&show_icons=true"/>
-
+  <p align="center>
+    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhwanggggg&count_private=true&theme=dark&show_icons=true"/> 
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&count_private=true&theme=dark&show_icons=true"/>
+  </p>
 </div>
 
 
