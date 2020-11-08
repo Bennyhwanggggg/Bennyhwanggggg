@@ -7,7 +7,7 @@
   <img height="130" src="https://ghchart.rshah.org/Bennyhwanggggg" alt="BennyHwanggggg's Github chart" />
 
   <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&show_icons=true&theme=dracula">
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&show_icons=true&theme=dracula">
     <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhwanggggg&count_private=true&theme=dracula">
   </p>
 </div>
