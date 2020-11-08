@@ -1,8 +1,18 @@
 ![Banner Image](banner.png)
+<h3 align="center">Full Stack Software Engineer | Machine Learning Engineer | Sydney, AU</h3>
 
+<p align="center">
+   <i>Let's connect and chat! Find me on the web...</i>
+   <br>
+   <img src="https://img.shields.io/badge/-bennyhwangggg.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bennyhwanggggg.github.io/portfolio"/>
+   
+   <img src="https://img.shields.io/badge/-bennyhwanggggg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benny-hwang-35b077104/"/>
+   
+   <img src="https://img.shields.io/badge/-bennyhwanggggg-c14438?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bennyhwanggggg"/>
+</p>
 
 **Github Stats:**
-<div align="center">
+<p align="center">
 
   <img height="130" src="https://ghchart.rshah.org/Bennyhwanggggg" alt="BennyHwanggggg's Github chart" />
 
@@ -10,7 +20,7 @@
     <img height="250" src="https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&show_icons=true&theme=dracula">
     <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhwanggggg&count_private=true&theme=dracula">
   </p>
-</div>
+</p>
 
 
 ## Tech stack
@@ -61,3 +71,9 @@
 ### Other Tools
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png"/></code>
 
+
+<div align="right">
+  
+[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+
+</div>
