@@ -75,6 +75,6 @@
 ## Visitor Stats
 <div align="left">
   
-<img src="http://hits.dwyl.com/bennyhwangggg/bennyhwangggg.svg" /> <img src="https://views.whatilearened.today/views/github/bennyhwangggg/bennyhwangggg.svg"/> <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg"/>
+<img src="http://hits.dwyl.com/bennyhwangggg/bennyhwanggggg.svg" /> <img src="https://views.whatilearened.today/views/github/bennyhwanggggg/bennyhwanggggg.svg"/> <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg"/>
 
 </div>
