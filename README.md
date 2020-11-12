@@ -14,7 +14,7 @@
 **Github Stats:**
 <p align="center">
 
-  <img height="120" src="https://ghchart.rshah.org/Bennyhwanggggg" alt="BennyHwanggggg's Github chart" />
+  [comment]: <> (<img height="120" src="https://ghchart.rshah.org/Bennyhwanggggg" alt="BennyHwanggggg's Github chart" />)
 
   <p align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=bennyhwanggggg&show_icons=true&theme=dracula">
