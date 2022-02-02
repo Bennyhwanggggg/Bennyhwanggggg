@@ -1,5 +1,5 @@
 ![Banner Image](banner.png)
-<h3 align="center">Full Stack Software Engineer | Machine Learning Engineer | AWS SDE | Sydney, AU</h3>
+<h3 align="center">Full Stack Software Engineer | Machine Learning Engineer | SWE @ Google | Ex-AWS | Sydney, AU</h3>
 
 <p align="center">
    <i>Let's connect and chat! Find me on the web...</i>
